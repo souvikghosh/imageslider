@@ -1,1 +1,1 @@
-# imageslider
+This is a simple image slider which automatically loops through the images and has a waiting period of 3 sec. This is also responsive to previous and next buttons which can also be used to move through the images.
